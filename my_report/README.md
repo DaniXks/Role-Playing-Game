@@ -5,12 +5,9 @@
 ### GitHub Personal Profile: DaniXks
 ### Digital & Serious Games Personal Repository: https://danixks.github.io/Role-Playing-Game/
 
-# Introduction
 # Δημιουργία Space-Exploration-Game
 
 Προς το παρόν δεν υπάρχει κάποιος συγκεκριμένος σκοπός. Ο παίκτης απλά εξερευνεί το περιβάλλον και προσπαθεί να καταλάβει τι συνέβει στο παρελθόν.
-
-# Summary
 
 
 # 1st Deliverable
