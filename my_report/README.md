@@ -52,7 +52,9 @@
 
 Έπειτα τα sprites για τον ήλιο και τον πλανήτη (βασισμένο στον Δία) φτιάχτηκαν και έγιναν render μέσα στο Blender.
 ![Screenshot](Sun.png)
+![Screenshot](Capture_856.png)
 ![Screenshot](Jupiter_v07_Sprite-CC.png)
+![Screenshot](Capture_855.png)
 
 Τέλος, υπάρχει και ένα soundtrack το οποίο είχα φτιάξει το 2020 στον ελεύθερό μου χρόνο. Νομίζω ότι ταιριάζει.
 ![Screenshot](Capture_854.png)
